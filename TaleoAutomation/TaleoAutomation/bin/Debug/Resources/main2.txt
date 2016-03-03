@@ -1,0 +1,172 @@
+//main
+smartorg | menuTemplate-menuForm-content-outputText_smartOrgAdmin | link | smartorg
+recruiting | menuTemplate-menuForm-content-j_id_jsp_1683871847_167pc20-0-outputText_product_admin | link | recruiting
+careersection | menuTemplate-menuForm-content-j_id_jsp_1683871847_167pc20-1-outputText_product_admin | link | careersection
+legacyonboarding | menuTemplate-menuForm-content-j_id_jsp_1683871847_167pc20-2-outputText_product_admin | link | legacyonboarding
+onboardingtransitions | menuTemplate-menuForm-content-j_id_jsp_1683871847_167pc20-3-outputText_product_admin | link | onboardingtransitions
+performance | menuTemplate-menuForm-content-j_id_jsp_1683871847_167pc20-4-outputText_product_admin | link | performance
+product | menuTemplate-menuForm-content-outputText_manageSettings | link | product_settings
+evaluationmanagement | menuTemplate-menuForm-content-j_id_jsp_1683871847_167pc20-5-outputText_product_admin | link | null
+//smartorg
+user accounts | menuTemplate-menuForm-content-outputText_usersManagement | link | user accounts
+user groups | menuTemplate-menuForm-content-outputText_groupsManagement | link | null
+user types | menuTemplate-menuForm-content-outputText_userRoleManagement | link | user types
+settings | menuTemplate-menuForm-content-outputText_manageSettings | link | smartorg_settings
+//recruiting
+settings | menuTemplate-menuForm-content-subview_AdminMenuContent-subview_PageBody-lblRecruitingSettings | link | recruiting_settings
+//careersection
+settings | menuTemplate-menuForm-content-subview_AdminMenuContent-subview_PageBody-lblCompanySettingsList | link | careersection_settings
+//legacyonboarding
+settings | menuTemplate-menuForm-content-settings | link | legacyonboarding_settings
+//onboardingtransitions
+settings | menuTemplate-menuForm-content-settings | link | onboardingtransitions_settings
+//performance
+settings | menuTemplate-menuForm-content-lblCompanySettingsList | link | performance_settings
+//user accounts
+name | list-list-content-userList-listFilters-inputTextString1 | textbox | null
+refresh | list-list-content-userList-listFilters-defaultCmd | link | null
+row | list-list-content-userList-list-0-userViewCommandLink | link | name
+//name
+personalinformation | viewTemplate-viewForm-content-userViewContent-userInfoContent-userPersonalInformation-editPersonalInfo | link | personalinformation
+employeeinformation_edit | viewTemplate-viewForm-content-userViewContent-userInfoContent-viewUserEmployeeInfo-editProductAccess | link | employeeinformation_edit
+employeeinformation_terminate | viewTemplate-viewForm-content-userViewContent-userInfoContent-viewUserEmployeeInfo-terminateEmployeeButton | link | null
+accountinformation_edit | viewTemplate-viewForm-content-userViewContent-userInfoContent-userAccountInformation-editAccount | link | accountinformation_edit
+accountinformation_generatepassword | viewTemplate-viewForm-content-userViewContent-userInfoContent-userAccountInformation-generatePassword | link | null
+accountinformation_deactivate | viewTemplate-viewForm-content-userViewContent-userInfoContent-userAccountInformation-deactivateAccount | link | null
+accountinformation_lock | viewTemplate-viewForm-content-userViewContent-userInfoContent-userAccountInformation-lockUnlock | link | null
+accountinformation_transfer | viewTemplate-viewForm-content-userViewContent-userInfoContent-userAccountInformation-transferUser | link | null
+accountinformation_delegate | viewTemplate-viewForm-content-userViewContent-userInfoContent-userAccountInformation-delegateUser | link | null
+usertypes | viewTemplate-viewForm-content-userViewContent-userInfoContent-userRolesViewContainer-editUserRoles | link | null
+usergroups_account | viewTemplate-viewForm-content-userViewContent-userInfoContent-userOLFGroupInformation-addElements | link | usergroups_account
+coverageareas | viewTemplate-viewForm-content-userViewContent-userInfoContent-userOLFCoverageAreaInformation-createUserCoverageArea | link | null
+//personalinformation
+prefix | editTemplate-editForm-content-managePersonalInfo-prefix | textbox | null
+firstname | editTemplate-editForm-content-managePersonalInfo-firstName | textbox | null
+middlename | editTemplate-editForm-content-managePersonalInfo-initial | textbox | null
+lastname | editTemplate-editForm-content-managePersonalInfo-lastName2 | textbox | null
+suffix | editTemplate-editForm-content-managePersonalInfo-suffix | textbox | null
+employeeid | editTemplate-editForm-content-managePersonalInfo-employeeID | textbox | null
+title | editTemplate-editForm-content-managePersonalInfo-title | textbox | null
+streetaddress1 | editTemplate-editForm-content-managePersonalInfo-streetAddress | textbox | null
+streetaddress2 | editTemplate-editForm-content-managePersonalInfo-streetAddress2 | textbox | null
+streetaddress3 | editTemplate-editForm-content-managePersonalInfo-streetAddress3 | textbox | null
+city | editTemplate-editForm-content-managePersonalInfo-city | textbox | null
+state | editTemplate-editForm-content-managePersonalInfo-state | textbox | null
+zipcode | editTemplate-editForm-content-managePersonalInfo-zipCode | textbox | null
+country | editTemplate-editForm-content-managePersonalInfo-country | textbox | null
+correspondanceemail | editTemplate-editForm-content-managePersonalInfo-correspondanceEmail | textbox | null
+personalemail | editTemplate-editForm-content-managePersonalInfo-personalEmail | textbox | null
+corporateemail | editTemplate-editForm-content-managePersonalInfo-corporateEmail | textbox | null
+workphone | editTemplate-editForm-content-managePersonalInfo-workphone | textbox | null
+workphoneextension | editTemplate-editForm-content-managePersonalInfo-workphoneExtension | textbox | null
+mobilephone | editTemplate-editForm-content-managePersonalInfo-mobilePhone | textbox | null
+homephone | editTemplate-editForm-content-managePersonalInfo-homePhone | textbox | null
+fax | editTemplate-editForm-content-managePersonalInfo-fax | textbox | null
+pager | editTemplate-editForm-content-managePersonalInfo-pager | textbox | null
+department | editTemplate-editForm-content-managePersonalInfo-taskQuickFinderTestSubview-quickfinder | textbox | null
+save | editTemplate-editForm-content-managePersonalInfo-up_save | link | name
+//employeeinformation_edit
+employeestatus | editTemplate-editForm-content-userEmployeeInfoContent-userEmployeeInfoContentEdit-j_id_jsp_1960506341_29pc14 | dropdown | null
+employeemanager | editTemplate-editForm-content-userEmployeeInfoContent-userEmployeeInfoContentEdit-managerQuickFinder | textbox | null
+organization | editTemplate-editForm-content-userEmployeeInfoContent-userEmployeeInfoContentEdit-organizationQuickFinder | textbox | null
+location | editTemplate-editForm-content-userEmployeeInfoContent-userEmployeeInfoContentEdit-locationQuickFinder | textbox | null
+jobrole | editTemplate-editForm-content-userEmployeeInfoContent-userEmployeeInfoContentEdit-jobRoleQuickFinder | textbox | null
+askifemployeehasacandidateaccount | editTemplate-editForm:content:userEmployeeInfoContent:userEmployeeInfoContentEdit:confirmProfileCbx | checkbox | null
+save | editTemplate-editForm-content-userEmployeeInfoContent-j_id_jsp_1320493647_24pc12 | link | name
+//accountinformation_edit
+username | editTemplate-editForm-content-EditUserAccount-loginName | textbox | null
+externaluserid | editTemplate-editForm-content-EditUserAccount-externalUserId | textbox | null
+configurationprofile | editTemplate-editForm-content-EditUserAccount-configProfileSelect | dropdown | null
+save | editTemplate-editForm-content-EditUserAccount-up_save | link | name
+//usergroups_account
+refineby | content-selectorSubView-selectorForm-content-listFilters-selectOneMenuFilters1 | dropdown | null
+name | content-selectorSubView-selectorForm-content-listFilters-inputTextString1 | textbox | null
+refresh | content-selectorSubView-selectorForm-content-listFilters-defaultCmd | link | null
+row | content-selectorSubView-selectorForm-content-rows:0._selectcb0 | checkbox | null
+select | content-selectorSubView-selectorForm-content-bottomSelect | link | name
+//user groups
+refineby | list-list-content-groupList-listFilters-selectOneMenuFilters1 | dropdown | null
+name | list-list-content-groupList-listFilters-inputTextString1 | textbox | null
+refresh | list-list-content-groupList-listFilters-defaultCmd | link | null
+delete | list-list-content-groupList-olfGroupListDataTable-0-olfGroupDelete | link | null
+row | list-list-content-groupList-olfGroupListDataTable-0-groupInfo | link | group
+create | list-list-content-groupList-outputText_3_1146668789147 | link | createusergroup
+//createusergroup
+code | editTemplate-editForm-content-editContentExample-groupName | textbox | null
+name | editTemplate-editForm-content-editContentExample-groupDescription | textbox | null
+save | editTemplate-editForm-content-editContentExample-bottom_save | link | user groups
+//group
+usergroup_edit | viewTemplate-viewForm-content-editContentExample-olfgroupedit | link | usergroup_edit
+users_add | viewTemplate-viewForm-content-editContentExample-addElements | link | usergroup_adduser
+//usergroup_edit
+code | editTemplate-editForm-content-editContentExample-groupName | textbox | null
+name | editTemplate-editForm-content-editContentExample-groupDescription | textbox | null
+save | editTemplate-editForm-content-editContentExample-bottom_save | textbox | group
+//usergroup_adduser
+refineby | content-selectorSubView-selectorForm-content-listFilters-selectOneMenuFilters1 | dropdown | null
+name | content-selectorSubView-selectorForm-content-listFilters-inputTextString1 | textbox | null
+refresh | content-selectorSubView-selectorForm-content-listFilters-defaultCmd | link | null
+row | content-selectorSubView-selectorForm-content-rows:0._selectcb0 | checkbox | null
+select | content-selectorSubView-selectorForm-content-topSelect | link | group
+//user types
+refineby | list-list-content-mlListFilters-listFiltersContent-selectOneMenuFilters1 | dropdown | null
+refresh | list-list-content-mlListFilters-listFiltersContent-defaultCmd | link | null
+name | list-list-content-mlListFilters-listFiltersContent-inputTextString1 | textbox | null
+row | list-list-content-userRoles-0-codeViewLinkText | link | user type name
+//user type name
+activate | viewTemplate-viewForm-content-viewActivateAction | link | null
+deactivate | viewTemplate-viewForm-content-viewDeactivateAction | link | null
+//recruiting_settings
+refineby | list-list-content-settingValueListContent-dataTable-listFilters-selectOneMenuFilters1 | dropdown | null
+name | list-list-content-settingValueListContent-dataTable-listFilters-inputTextString1 | textbox | null
+refresh | list-list-content-settingValueListContent-dataTable-listFilters-defaultCmd | link | null
+Complete Selection Process Reminder | list-list-content-settingValueListContent-dataTable-settingValues-0-viewSettingValueCommandLink | link | edit_button_Complete Selection Process Reminder
+Displayed Elements in Lists with Paging | list-list-content-settingValueListContent-dataTable-settingValues-0-viewSettingValueCommandLink | link | edit_button_Displayed Elements in Lists with Paging
+OFCCP Search Trace Activation | list-list-content-settingValueListContent-dataTable-settingValues-0-viewSettingValueCommandLink | link | edit_button_OFCCP Search Trace Activation
+Default History Event Categories | list-list-content-settingValueListContent-dataTable-settingValues-0-viewSettingValueCommandLink | link | edit_button_Default History Event Categories
+//edit_button_Complete Selection Process Reminder
+edit | viewTemplate-viewForm-content-settingValueViewContent-editSetting | link | editor_Complete Selection Process Reminder
+//editor_Complete Selection Process Reminder
+Value | editTemplate-editTemplate-editForm-content-settingValueEditSubView-j_id_jsp_1908429301_31pc12-page_2-radioValue_true | radio | Yes
+Value | editTemplate-editTemplate-editForm-content-settingValueEditSubView-j_id_jsp_1908429301_31pc12-page_2-radioValue_false | radio | No
+save | editTemplate-editTemplate-editForm-content-settingValueEditSubView-saveCmdButton | link | null
+//edit_button_Displayed Elements in Lists with Paging
+edit | viewTemplate-viewForm-content-settingValueViewContent-editSetting | link | editor_Displayed Elements in Lists with Paging
+//editor_Displayed Elements in Lists with Paging
+Value | editTemplate-editTemplate-editForm-content-settingValueEditSubView-j_id_jsp_1908429301_31pc12-page_2-integerValue | textbox | null
+save | editTemplate-editTemplate-editForm-content-settingValueEditSubView-saveCmdButton | link | null
+//edit_button_OFCCP Search Trace Activation
+edit | viewTemplate-viewForm-content-settingValueViewContent-editSetting | link | editor_OFCCP Search Trace Activation
+//editor_OFCCP Search Trace Activation
+value | editTemplate-editTemplate-editForm-content-settingValueEditSubView-j_id_jsp_1908429301_31pc12-page_8-comboBoxValue | dropdown | null
+save | editTemplate-editTemplate-editForm-content-settingValueEditSubView-saveCmdButton | link | null
+//edit_button_Default History Event Categories
+edit | viewTemplate-viewForm-content-settingValueViewContent-editSetting | link | editor_Default History Event Categories
+//editor_Default History Event Categories
+selected | editTemplate-editTemplate-editForm-content-settingValueEditSubView-j_id_jsp_1908429301_31pc12-page_4-selectedSettingValues | select | null
+available | editTemplate-editTemplate-editForm-content-settingValueEditSubView-j_id_jsp_1908429301_31pc12-page_4-availableSettingValues | select | null
+add | editTemplate-editTemplate-editForm-content-settingValueEditSubView-j_id_jsp_1908429301_31pc12-page_4-add | link | null
+remove | editTemplate-editTemplate-editForm-content-settingValueEditSubView-j_id_jsp_1908429301_31pc12-page_4-remove | link | null
+save | editTemplate-editTemplate-editForm-content-settingValueEditSubView-saveCmdButton | link | null
+//product_settings
+refineby | list-list-content-dataTable-listFilters-selectOneMenuFilters1 | dropdown | null
+name | list-list-content-dataTable-listFilters-inputTextString1 | textbox | null
+refresh | list-list-content-dataTable-listFilters-defaultCmd | link | null
+Attachments Format Filter | list-list-content-dataTable-settingValues-0-viewSettingValueCommandLink | link | edit_button_Attachments Format Filter
+Default Distance Unit | list-list-content-dataTable-settingValues-0-viewSettingValueCommandLink | link | edit_button_Default Distance Unit
+//edit_button_Attachments Format Filter
+edit | viewTemplate-viewForm-content-settingValueViewContent-editSetting | link | editor_Attachments Format Filter
+//editor_Attachments Format Filter
+selected | editTemplate-editTemplate-editForm-content-settingValueEditSubView-j_id_jsp_724896399_31pc12-page_4-selectedSettingValues | select | null
+available | editTemplate-editTemplate-editForm-content-settingValueEditSubView-j_id_jsp_724896399_31pc12-page_4-availableSettingValues | select | null
+add | editTemplate-editTemplate-editForm-content-settingValueEditSubView-j_id_jsp_724896399_31pc12-page_4-add | link | null
+remove | editTemplate-editTemplate-editForm-content-settingValueEditSubView-j_id_jsp_724896399_31pc12-page_4-remove | link | null
+save | editTemplate-editTemplate-editForm-content-settingValueEditSubView-saveCmdButton | link | null
+//edit_button_Default Distance Unit
+edit | viewTemplate-viewForm-content-settingValueViewContent-editSetting | link | editor_Default Distance Unit
+//editor_Default Distance Unit
+value | editTemplate-editTemplate-editForm-content-settingValueEditSubView-j_id_jsp_724896399_31pc12-page_5-comboBoxValue | dropdown | null
+save | editTemplate-editTemplate-editForm-content-settingValueEditSubView-saveCmdButton | link | null
+
+
+

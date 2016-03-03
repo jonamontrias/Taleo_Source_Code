@@ -1,0 +1,159 @@
+c:\users\erwin.s.delos.santos\documents\visual studio 2015\Projects\TaleoAutomation\TaleoAutomation\bin\Debug\TaleoAutomation.exe.config
+c:\users\erwin.s.delos.santos\documents\visual studio 2015\Projects\TaleoAutomation\TaleoAutomation\bin\Debug\TaleoAutomation.exe
+c:\users\erwin.s.delos.santos\documents\visual studio 2015\Projects\TaleoAutomation\TaleoAutomation\bin\Debug\TaleoAutomation.pdb
+c:\users\erwin.s.delos.santos\documents\visual studio 2015\Projects\TaleoAutomation\TaleoAutomation\bin\Debug\nunit.framework.dll
+c:\users\erwin.s.delos.santos\documents\visual studio 2015\Projects\TaleoAutomation\TaleoAutomation\bin\Debug\pnunit.framework.dll
+c:\users\erwin.s.delos.santos\documents\visual studio 2015\Projects\TaleoAutomation\TaleoAutomation\bin\Debug\pnunit.tests.dll
+c:\users\erwin.s.delos.santos\documents\visual studio 2015\Projects\TaleoAutomation\TaleoAutomation\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+c:\users\erwin.s.delos.santos\documents\visual studio 2015\Projects\TaleoAutomation\TaleoAutomation\bin\Debug\ThoughtWorks.Selenium.Core.dll
+c:\users\erwin.s.delos.santos\documents\visual studio 2015\Projects\TaleoAutomation\TaleoAutomation\bin\Debug\WebDriver.dll
+c:\users\erwin.s.delos.santos\documents\visual studio 2015\Projects\TaleoAutomation\TaleoAutomation\bin\Debug\WebDriver.Support.dll
+c:\users\erwin.s.delos.santos\documents\visual studio 2015\Projects\TaleoAutomation\TaleoAutomation\bin\Debug\Selenium.WebDriverBackedSelenium.pdb
+c:\users\erwin.s.delos.santos\documents\visual studio 2015\Projects\TaleoAutomation\TaleoAutomation\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+c:\users\erwin.s.delos.santos\documents\visual studio 2015\Projects\TaleoAutomation\TaleoAutomation\bin\Debug\ThoughtWorks.Selenium.Core.pdb
+c:\users\erwin.s.delos.santos\documents\visual studio 2015\Projects\TaleoAutomation\TaleoAutomation\bin\Debug\ThoughtWorks.Selenium.Core.xml
+c:\users\erwin.s.delos.santos\documents\visual studio 2015\Projects\TaleoAutomation\TaleoAutomation\bin\Debug\WebDriver.pdb
+c:\users\erwin.s.delos.santos\documents\visual studio 2015\Projects\TaleoAutomation\TaleoAutomation\bin\Debug\WebDriver.xml
+c:\users\erwin.s.delos.santos\documents\visual studio 2015\Projects\TaleoAutomation\TaleoAutomation\bin\Debug\WebDriver.Support.pdb
+c:\users\erwin.s.delos.santos\documents\visual studio 2015\Projects\TaleoAutomation\TaleoAutomation\bin\Debug\WebDriver.Support.xml
+c:\users\erwin.s.delos.santos\documents\visual studio 2015\Projects\TaleoAutomation\TaleoAutomation\obj\Debug\TaleoAutomation.csprojResolveAssemblyReference.cache
+c:\users\erwin.s.delos.santos\documents\visual studio 2015\Projects\TaleoAutomation\TaleoAutomation\obj\Debug\TaleoAutomation.Properties.Resources.resources
+c:\users\erwin.s.delos.santos\documents\visual studio 2015\Projects\TaleoAutomation\TaleoAutomation\obj\Debug\TaleoAutomation.csproj.GenerateResource.Cache
+c:\users\erwin.s.delos.santos\documents\visual studio 2015\Projects\TaleoAutomation\TaleoAutomation\obj\Debug\TaleoAutomation.exe
+c:\users\erwin.s.delos.santos\documents\visual studio 2015\Projects\TaleoAutomation\TaleoAutomation\obj\Debug\TaleoAutomation.pdb
+C:\Users\erwin.s.delos.santos\Desktop\TaleoAutomation_Console\TaleoAutomation\TaleoAutomation\bin\Debug\TaleoAutomation.exe.config
+C:\Users\erwin.s.delos.santos\Desktop\TaleoAutomation_Console\TaleoAutomation\TaleoAutomation\obj\Debug\TaleoAutomation.exe
+C:\Users\erwin.s.delos.santos\Desktop\TaleoAutomation_Console\TaleoAutomation\TaleoAutomation\obj\Debug\TaleoAutomation.pdb
+C:\Users\erwin.s.delos.santos\Desktop\TaleoAutomation_Console\TaleoAutomation\TaleoAutomation\bin\Debug\TaleoAutomation.exe
+C:\Users\erwin.s.delos.santos\Desktop\TaleoAutomation_Console\TaleoAutomation\TaleoAutomation\bin\Debug\TaleoAutomation.pdb
+C:\Users\erwin.s.delos.santos\Desktop\TaleoAutomation_Console\TaleoAutomation\TaleoAutomation\obj\Debug\TaleoAutomation.Properties.Resources.resources
+C:\Users\erwin.s.delos.santos\Desktop\TaleoAutomation_Console\TaleoAutomation\TaleoAutomation\obj\Debug\TaleoAutomation.csproj.GenerateResource.Cache
+C:\Users\erwin.s.delos.santos\Desktop\TaleoAutomation_Console\TaleoAutomation\TaleoAutomation\bin\Debug\Resources\main2.txt
+C:\Users\john.lester.f.lucena\Desktop\Taleo_source\coderepo\TaleoAutomation\TaleoAutomation\bin\Debug\TaleoAutomation.exe.config
+C:\Users\john.lester.f.lucena\Desktop\Taleo_source\coderepo\TaleoAutomation\TaleoAutomation\obj\Debug\TaleoAutomation.exe
+C:\Users\john.lester.f.lucena\Desktop\Taleo_source\coderepo\TaleoAutomation\TaleoAutomation\obj\Debug\TaleoAutomation.pdb
+C:\Users\john.lester.f.lucena\Desktop\Taleo_source\coderepo\TaleoAutomation\TaleoAutomation\bin\Debug\Resources\main2.txt
+C:\Users\john.lester.f.lucena\Desktop\Taleo_source\coderepo\TaleoAutomation\TaleoAutomation\bin\Debug\TaleoAutomation.exe
+C:\Users\john.lester.f.lucena\Desktop\Taleo_source\coderepo\TaleoAutomation\TaleoAutomation\bin\Debug\TaleoAutomation.pdb
+C:\Users\john.lester.f.lucena\Desktop\Taleo_source\coderepo\TaleoAutomation\TaleoAutomation\bin\Debug\nunit.framework.dll
+C:\Users\john.lester.f.lucena\Desktop\Taleo_source\coderepo\TaleoAutomation\TaleoAutomation\bin\Debug\pnunit.framework.dll
+C:\Users\john.lester.f.lucena\Desktop\Taleo_source\coderepo\TaleoAutomation\TaleoAutomation\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Users\john.lester.f.lucena\Desktop\Taleo_source\coderepo\TaleoAutomation\TaleoAutomation\bin\Debug\ThoughtWorks.Selenium.Core.dll
+C:\Users\john.lester.f.lucena\Desktop\Taleo_source\coderepo\TaleoAutomation\TaleoAutomation\bin\Debug\WebDriver.dll
+C:\Users\john.lester.f.lucena\Desktop\Taleo_source\coderepo\TaleoAutomation\TaleoAutomation\bin\Debug\WebDriver.Support.dll
+C:\Users\john.lester.f.lucena\Desktop\Taleo_source\coderepo\TaleoAutomation\TaleoAutomation\bin\Debug\nunit.framework.xml
+C:\Users\john.lester.f.lucena\Desktop\Taleo_source\coderepo\TaleoAutomation\TaleoAutomation\bin\Debug\Selenium.WebDriverBackedSelenium.pdb
+C:\Users\john.lester.f.lucena\Desktop\Taleo_source\coderepo\TaleoAutomation\TaleoAutomation\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+C:\Users\john.lester.f.lucena\Desktop\Taleo_source\coderepo\TaleoAutomation\TaleoAutomation\bin\Debug\ThoughtWorks.Selenium.Core.pdb
+C:\Users\john.lester.f.lucena\Desktop\Taleo_source\coderepo\TaleoAutomation\TaleoAutomation\bin\Debug\ThoughtWorks.Selenium.Core.xml
+C:\Users\john.lester.f.lucena\Desktop\Taleo_source\coderepo\TaleoAutomation\TaleoAutomation\bin\Debug\WebDriver.pdb
+C:\Users\john.lester.f.lucena\Desktop\Taleo_source\coderepo\TaleoAutomation\TaleoAutomation\bin\Debug\WebDriver.xml
+C:\Users\john.lester.f.lucena\Desktop\Taleo_source\coderepo\TaleoAutomation\TaleoAutomation\bin\Debug\WebDriver.Support.pdb
+C:\Users\john.lester.f.lucena\Desktop\Taleo_source\coderepo\TaleoAutomation\TaleoAutomation\bin\Debug\WebDriver.Support.xml
+C:\Users\john.lester.f.lucena\Desktop\Taleo_source\coderepo\TaleoAutomation\TaleoAutomation\obj\Debug\TaleoAutomation.csprojResolveAssemblyReference.cache
+C:\Users\john.lester.f.lucena\Desktop\Taleo_source\coderepo\TaleoAutomation\TaleoAutomation\obj\Debug\TaleoAutomation.Properties.Resources.resources
+C:\Users\john.lester.f.lucena\Desktop\Taleo_source\coderepo\TaleoAutomation\TaleoAutomation\obj\Debug\TaleoAutomation.csproj.GenerateResource.Cache
+C:\Users\john.lester.f.lucena\Desktop\Taleo_source\coderepo\TaleoAutomation\TaleoAutomation\bin\Debug\Properties\Resources.resx
+C:\Users\john.lester.f.lucena\Desktop\Taleo_source\coderepo\TaleoAutomation\TaleoAutomation\bin\Debug\Properties\Resources.Designer.cs
+C:\Users\jerico.l.ortega\Desktop\TaleoAutomation\TaleoAutomation\bin\Debug\TaleoAutomation.exe.config
+C:\Users\jerico.l.ortega\Desktop\TaleoAutomation\TaleoAutomation\obj\Debug\TaleoAutomation.exe
+C:\Users\jerico.l.ortega\Desktop\TaleoAutomation\TaleoAutomation\obj\Debug\TaleoAutomation.pdb
+C:\Users\jerico.l.ortega\Desktop\TaleoAutomation\TaleoAutomation\bin\Debug\Properties\Resources.resx
+C:\Users\jerico.l.ortega\Desktop\TaleoAutomation\TaleoAutomation\bin\Debug\Properties\Resources.Designer.cs
+C:\Users\jerico.l.ortega\Desktop\TaleoAutomation\TaleoAutomation\bin\Debug\Resources\main2.txt
+C:\Users\jerico.l.ortega\Desktop\TaleoAutomation\TaleoAutomation\bin\Debug\TaleoAutomation.exe
+C:\Users\jerico.l.ortega\Desktop\TaleoAutomation\TaleoAutomation\bin\Debug\TaleoAutomation.pdb
+C:\Users\jerico.l.ortega\Desktop\TaleoAutomation\TaleoAutomation\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\jerico.l.ortega\Desktop\TaleoAutomation\TaleoAutomation\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Users\jerico.l.ortega\Desktop\TaleoAutomation\TaleoAutomation\bin\Debug\ThoughtWorks.Selenium.Core.dll
+C:\Users\jerico.l.ortega\Desktop\TaleoAutomation\TaleoAutomation\bin\Debug\WebDriver.dll
+C:\Users\jerico.l.ortega\Desktop\TaleoAutomation\TaleoAutomation\bin\Debug\WebDriver.Support.dll
+C:\Users\jerico.l.ortega\Desktop\TaleoAutomation\TaleoAutomation\bin\Debug\nunit.framework.xml
+C:\Users\jerico.l.ortega\Desktop\TaleoAutomation\TaleoAutomation\bin\Debug\Selenium.WebDriverBackedSelenium.pdb
+C:\Users\jerico.l.ortega\Desktop\TaleoAutomation\TaleoAutomation\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+C:\Users\jerico.l.ortega\Desktop\TaleoAutomation\TaleoAutomation\bin\Debug\ThoughtWorks.Selenium.Core.pdb
+C:\Users\jerico.l.ortega\Desktop\TaleoAutomation\TaleoAutomation\bin\Debug\ThoughtWorks.Selenium.Core.xml
+C:\Users\jerico.l.ortega\Desktop\TaleoAutomation\TaleoAutomation\bin\Debug\WebDriver.pdb
+C:\Users\jerico.l.ortega\Desktop\TaleoAutomation\TaleoAutomation\bin\Debug\WebDriver.xml
+C:\Users\jerico.l.ortega\Desktop\TaleoAutomation\TaleoAutomation\bin\Debug\WebDriver.Support.pdb
+C:\Users\jerico.l.ortega\Desktop\TaleoAutomation\TaleoAutomation\bin\Debug\WebDriver.Support.xml
+C:\Users\jerico.l.ortega\Desktop\TaleoAutomation\TaleoAutomation\obj\Debug\TaleoAutomation.csprojResolveAssemblyReference.cache
+C:\Users\jerico.l.ortega\Desktop\TaleoAutomation\TaleoAutomation\obj\Debug\TaleoAutomation.Properties.Resources.resources
+C:\Users\jerico.l.ortega\Desktop\TaleoAutomation\TaleoAutomation\obj\Debug\TaleoAutomation.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\coderepo\TaleoAutomation\TaleoAutomation\bin\Debug\TaleoAutomation.exe.config
+C:\Users\Administrator\Documents\coderepo\TaleoAutomation\TaleoAutomation\obj\Debug\TaleoAutomation.exe
+C:\Users\Administrator\Documents\coderepo\TaleoAutomation\TaleoAutomation\obj\Debug\TaleoAutomation.pdb
+C:\Users\Administrator\Documents\coderepo\TaleoAutomation\TaleoAutomation\bin\Debug\Properties\Resources.resx
+C:\Users\Administrator\Documents\coderepo\TaleoAutomation\TaleoAutomation\bin\Debug\Properties\Resources.Designer.cs
+C:\Users\Administrator\Documents\coderepo\TaleoAutomation\TaleoAutomation\bin\Debug\Resources\main2.txt
+C:\Users\Administrator\Documents\coderepo\TaleoAutomation\TaleoAutomation\bin\Debug\TaleoAutomation.exe
+C:\Users\Administrator\Documents\coderepo\TaleoAutomation\TaleoAutomation\bin\Debug\TaleoAutomation.pdb
+C:\Users\Administrator\Documents\coderepo\TaleoAutomation\TaleoAutomation\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Administrator\Documents\coderepo\TaleoAutomation\TaleoAutomation\bin\Debug\nunit.framework.dll
+C:\Users\Administrator\Documents\coderepo\TaleoAutomation\TaleoAutomation\bin\Debug\pnunit.framework.dll
+C:\Users\Administrator\Documents\coderepo\TaleoAutomation\TaleoAutomation\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Users\Administrator\Documents\coderepo\TaleoAutomation\TaleoAutomation\bin\Debug\ThoughtWorks.Selenium.Core.dll
+C:\Users\Administrator\Documents\coderepo\TaleoAutomation\TaleoAutomation\bin\Debug\WebDriver.dll
+C:\Users\Administrator\Documents\coderepo\TaleoAutomation\TaleoAutomation\bin\Debug\WebDriver.Support.dll
+C:\Users\Administrator\Documents\coderepo\TaleoAutomation\TaleoAutomation\bin\Debug\nunit.framework.xml
+C:\Users\Administrator\Documents\coderepo\TaleoAutomation\TaleoAutomation\bin\Debug\Selenium.WebDriverBackedSelenium.pdb
+C:\Users\Administrator\Documents\coderepo\TaleoAutomation\TaleoAutomation\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+C:\Users\Administrator\Documents\coderepo\TaleoAutomation\TaleoAutomation\bin\Debug\ThoughtWorks.Selenium.Core.pdb
+C:\Users\Administrator\Documents\coderepo\TaleoAutomation\TaleoAutomation\bin\Debug\ThoughtWorks.Selenium.Core.xml
+C:\Users\Administrator\Documents\coderepo\TaleoAutomation\TaleoAutomation\bin\Debug\WebDriver.pdb
+C:\Users\Administrator\Documents\coderepo\TaleoAutomation\TaleoAutomation\bin\Debug\WebDriver.xml
+C:\Users\Administrator\Documents\coderepo\TaleoAutomation\TaleoAutomation\bin\Debug\WebDriver.Support.pdb
+C:\Users\Administrator\Documents\coderepo\TaleoAutomation\TaleoAutomation\bin\Debug\WebDriver.Support.xml
+C:\Users\Administrator\Documents\coderepo\TaleoAutomation\TaleoAutomation\obj\Debug\TaleoAutomation.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\coderepo\TaleoAutomation\TaleoAutomation\obj\Debug\TaleoAutomation.Properties.Resources.resources
+C:\Users\Administrator\Documents\coderepo\TaleoAutomation\TaleoAutomation\obj\Debug\TaleoAutomation.csproj.GenerateResource.Cache
+C:\Users\kristen.r.t.limuaco\Desktop\TaleoWorkingCopy\coderepo\TaleoAutomation\TaleoAutomation\bin\Debug\TaleoAutomation.exe.config
+C:\Users\kristen.r.t.limuaco\Desktop\TaleoWorkingCopy\coderepo\TaleoAutomation\TaleoAutomation\obj\Debug\TaleoAutomation.exe
+C:\Users\kristen.r.t.limuaco\Desktop\TaleoWorkingCopy\coderepo\TaleoAutomation\TaleoAutomation\obj\Debug\TaleoAutomation.pdb
+C:\Users\kristen.r.t.limuaco\Desktop\TaleoWorkingCopy\coderepo\TaleoAutomation\TaleoAutomation\bin\Debug\Properties\Resources.resx
+C:\Users\kristen.r.t.limuaco\Desktop\TaleoWorkingCopy\coderepo\TaleoAutomation\TaleoAutomation\bin\Debug\Properties\Resources.Designer.cs
+C:\Users\kristen.r.t.limuaco\Desktop\TaleoWorkingCopy\coderepo\TaleoAutomation\TaleoAutomation\bin\Debug\Resources\main2.txt
+C:\Users\kristen.r.t.limuaco\Desktop\TaleoWorkingCopy\coderepo\TaleoAutomation\TaleoAutomation\bin\Debug\TaleoAutomation.exe
+C:\Users\kristen.r.t.limuaco\Desktop\TaleoWorkingCopy\coderepo\TaleoAutomation\TaleoAutomation\bin\Debug\TaleoAutomation.pdb
+C:\Users\kristen.r.t.limuaco\Desktop\TaleoWorkingCopy\coderepo\TaleoAutomation\TaleoAutomation\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\kristen.r.t.limuaco\Desktop\TaleoWorkingCopy\coderepo\TaleoAutomation\TaleoAutomation\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Users\kristen.r.t.limuaco\Desktop\TaleoWorkingCopy\coderepo\TaleoAutomation\TaleoAutomation\bin\Debug\ThoughtWorks.Selenium.Core.dll
+C:\Users\kristen.r.t.limuaco\Desktop\TaleoWorkingCopy\coderepo\TaleoAutomation\TaleoAutomation\bin\Debug\WebDriver.dll
+C:\Users\kristen.r.t.limuaco\Desktop\TaleoWorkingCopy\coderepo\TaleoAutomation\TaleoAutomation\bin\Debug\WebDriver.Support.dll
+C:\Users\kristen.r.t.limuaco\Desktop\TaleoWorkingCopy\coderepo\TaleoAutomation\TaleoAutomation\bin\Debug\nunit.framework.xml
+C:\Users\kristen.r.t.limuaco\Desktop\TaleoWorkingCopy\coderepo\TaleoAutomation\TaleoAutomation\bin\Debug\Selenium.WebDriverBackedSelenium.pdb
+C:\Users\kristen.r.t.limuaco\Desktop\TaleoWorkingCopy\coderepo\TaleoAutomation\TaleoAutomation\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+C:\Users\kristen.r.t.limuaco\Desktop\TaleoWorkingCopy\coderepo\TaleoAutomation\TaleoAutomation\bin\Debug\ThoughtWorks.Selenium.Core.pdb
+C:\Users\kristen.r.t.limuaco\Desktop\TaleoWorkingCopy\coderepo\TaleoAutomation\TaleoAutomation\bin\Debug\ThoughtWorks.Selenium.Core.xml
+C:\Users\kristen.r.t.limuaco\Desktop\TaleoWorkingCopy\coderepo\TaleoAutomation\TaleoAutomation\bin\Debug\WebDriver.pdb
+C:\Users\kristen.r.t.limuaco\Desktop\TaleoWorkingCopy\coderepo\TaleoAutomation\TaleoAutomation\bin\Debug\WebDriver.xml
+C:\Users\kristen.r.t.limuaco\Desktop\TaleoWorkingCopy\coderepo\TaleoAutomation\TaleoAutomation\bin\Debug\WebDriver.Support.pdb
+C:\Users\kristen.r.t.limuaco\Desktop\TaleoWorkingCopy\coderepo\TaleoAutomation\TaleoAutomation\bin\Debug\WebDriver.Support.xml
+C:\Users\kristen.r.t.limuaco\Desktop\TaleoWorkingCopy\coderepo\TaleoAutomation\TaleoAutomation\obj\Debug\TaleoAutomation.csprojResolveAssemblyReference.cache
+C:\Users\kristen.r.t.limuaco\Desktop\TaleoWorkingCopy\coderepo\TaleoAutomation\TaleoAutomation\obj\Debug\TaleoAutomation.Properties.Resources.resources
+C:\Users\kristen.r.t.limuaco\Desktop\TaleoWorkingCopy\coderepo\TaleoAutomation\TaleoAutomation\obj\Debug\TaleoAutomation.csproj.GenerateResource.Cache
+C:\Users\erwin.s.delos.santos\Desktop\latestTaleo\coderepo\TaleoAutomation\TaleoAutomation\bin\Debug\TaleoAutomation.exe.config
+C:\Users\erwin.s.delos.santos\Desktop\latestTaleo\coderepo\TaleoAutomation\TaleoAutomation\obj\Debug\TaleoAutomation.exe
+C:\Users\erwin.s.delos.santos\Desktop\latestTaleo\coderepo\TaleoAutomation\TaleoAutomation\obj\Debug\TaleoAutomation.pdb
+C:\Users\erwin.s.delos.santos\Desktop\latestTaleo\coderepo\TaleoAutomation\TaleoAutomation\bin\Debug\Properties\Resources.resx
+C:\Users\erwin.s.delos.santos\Desktop\latestTaleo\coderepo\TaleoAutomation\TaleoAutomation\bin\Debug\Properties\Resources.Designer.cs
+C:\Users\erwin.s.delos.santos\Desktop\latestTaleo\coderepo\TaleoAutomation\TaleoAutomation\bin\Debug\Resources\main2.txt
+C:\Users\erwin.s.delos.santos\Desktop\latestTaleo\coderepo\TaleoAutomation\TaleoAutomation\bin\Debug\TaleoAutomation.exe
+C:\Users\erwin.s.delos.santos\Desktop\latestTaleo\coderepo\TaleoAutomation\TaleoAutomation\bin\Debug\TaleoAutomation.pdb
+C:\Users\erwin.s.delos.santos\Desktop\latestTaleo\coderepo\TaleoAutomation\TaleoAutomation\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\erwin.s.delos.santos\Desktop\latestTaleo\coderepo\TaleoAutomation\TaleoAutomation\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Users\erwin.s.delos.santos\Desktop\latestTaleo\coderepo\TaleoAutomation\TaleoAutomation\bin\Debug\ThoughtWorks.Selenium.Core.dll
+C:\Users\erwin.s.delos.santos\Desktop\latestTaleo\coderepo\TaleoAutomation\TaleoAutomation\bin\Debug\WebDriver.dll
+C:\Users\erwin.s.delos.santos\Desktop\latestTaleo\coderepo\TaleoAutomation\TaleoAutomation\bin\Debug\WebDriver.Support.dll
+C:\Users\erwin.s.delos.santos\Desktop\latestTaleo\coderepo\TaleoAutomation\TaleoAutomation\bin\Debug\nunit.framework.xml
+C:\Users\erwin.s.delos.santos\Desktop\latestTaleo\coderepo\TaleoAutomation\TaleoAutomation\bin\Debug\Selenium.WebDriverBackedSelenium.pdb
+C:\Users\erwin.s.delos.santos\Desktop\latestTaleo\coderepo\TaleoAutomation\TaleoAutomation\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+C:\Users\erwin.s.delos.santos\Desktop\latestTaleo\coderepo\TaleoAutomation\TaleoAutomation\bin\Debug\ThoughtWorks.Selenium.Core.pdb
+C:\Users\erwin.s.delos.santos\Desktop\latestTaleo\coderepo\TaleoAutomation\TaleoAutomation\bin\Debug\ThoughtWorks.Selenium.Core.xml
+C:\Users\erwin.s.delos.santos\Desktop\latestTaleo\coderepo\TaleoAutomation\TaleoAutomation\bin\Debug\WebDriver.pdb
+C:\Users\erwin.s.delos.santos\Desktop\latestTaleo\coderepo\TaleoAutomation\TaleoAutomation\bin\Debug\WebDriver.xml
+C:\Users\erwin.s.delos.santos\Desktop\latestTaleo\coderepo\TaleoAutomation\TaleoAutomation\bin\Debug\WebDriver.Support.pdb
+C:\Users\erwin.s.delos.santos\Desktop\latestTaleo\coderepo\TaleoAutomation\TaleoAutomation\bin\Debug\WebDriver.Support.xml
+C:\Users\erwin.s.delos.santos\Desktop\latestTaleo\coderepo\TaleoAutomation\TaleoAutomation\obj\Debug\TaleoAutomation.csprojResolveAssemblyReference.cache
+C:\Users\erwin.s.delos.santos\Desktop\latestTaleo\coderepo\TaleoAutomation\TaleoAutomation\obj\Debug\TaleoAutomation.Properties.Resources.resources
+C:\Users\erwin.s.delos.santos\Desktop\latestTaleo\coderepo\TaleoAutomation\TaleoAutomation\obj\Debug\TaleoAutomation.csproj.GenerateResource.Cache

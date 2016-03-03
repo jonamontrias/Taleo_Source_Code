@@ -1,0 +1,2 @@
+Recruiting>Settings>Refineby>Name>Name>Displayed Elements in Lists with Paging>Refresh>Displayed Elements in Lists with Paging>Edit>Value>30>Save
+SmartOrg>User types>Refineby>Name>Name>VG - Standard Basic Hiring Manager>Refresh>Row>Activate
