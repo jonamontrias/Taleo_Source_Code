@@ -54,8 +54,8 @@ public class SeleniumDriver {
 			driver.findElement(By.name("dialogTemplate-dialogForm-content-login-password")).sendKeys(password);
 			driver.findElement(By.id("dialogTemplate-dialogForm-content-login-defaultCmd")).click(); 
 			System.out.println("Login successful!");
-			File file = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
-			FileUtils.copyFile(file, new File("/var/jenkins_home/jobs/Oracle/jobs/Taleo/jobs/03_Deploy/workspace/afterlogin.png")); 
+			//File file = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
+			//FileUtils.copyFile(file, new File("/var/jenkins_home/jobs/Oracle/jobs/Taleo/jobs/03_Deploy/workspace/afterlogin.png")); 
 			return true;
 		} catch (Exception e) {
 			System.out.println("Login failed!");
@@ -65,12 +65,12 @@ public class SeleniumDriver {
 	}
 
 	public boolean run(String conf, String file, String homepage) throws InterruptedException {
-		try {
+//		try {
 			//load and read configuration file
 			driver.get(homepage);
 			driver.findElement(By.id("menuTemplate-menuForm-gotoSubView-listItemsNavItemsPanel-3-gotoCommandLink")).click();
-		  	File file1 = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
-                	FileUtils.copyFile(file1, new File("/var/jenkins_home/jobs/Oracle/jobs/Taleo/jobs/03_Deploy/workspace/beforeconfig.png"));
+		  	//File file1 = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
+            //FileUtils.copyFile(file1, new File("/var/jenkins_home/jobs/Oracle/jobs/Taleo/jobs/03_Deploy/workspace/beforeconfig.png"));
 			List<String[]> configs =  readInputfile(conf);
 		
 			//load and read pages data
@@ -121,10 +121,10 @@ public class SeleniumDriver {
 		System.out.println("Failed Configurations: "+ failed);
 		
 		return true;
-		} catch (IOException e) {
-		      	e.printStackTrace();
-			return false;
-		}	
+//		} catch (IOException e) {
+//		      	e.printStackTrace();
+//			return false;
+//		}	
 	}
 	
 	private List<String[]> readInputfile(String conf) {
@@ -152,7 +152,7 @@ public class SeleniumDriver {
 	
 	private boolean searchAndDo(String action) {
 		PageElement element;
-		if(current.isValid(action)) {
+		//if(current.isValid(action)) {
 			if(previous.isEmpty()) {
 				//System.out.println(current.pageElements.size());
 				element = current.getElement(action);
@@ -176,29 +176,32 @@ public class SeleniumDriver {
 				element = current.getElement(previous);
 				if(!element.equals(null)) {
 					try {
-					if(element.type.contentEquals("textbox")) {
-						wait.until(ExpectedConditions.elementToBeClickable(By.id(element.id))).clear();
-						wait.until(ExpectedConditions.elementToBeClickable(By.id(element.id))).sendKeys(action);
-						//driver.findElement(By.id(element.id)).clear();
-						//driver.findElement(By.id(element.id)).sendKeys(action);
-						previous = "";
-						return true;
-					} else if(element.type.contentEquals("dropdown") || element.type.contentEquals("select")) {
-						new Select(wait.until(ExpectedConditions.elementToBeClickable(By.id(element.id)))).selectByVisibleText(action);
-						previous = "";
-						return true;
-					} else if(element.type.contentEquals("radio")) {
-						element = current.getElement(previous, action);
-						wait.until(ExpectedConditions.elementToBeClickable(By.id(element.id))).click();
-						previous = "";
-						//driver.findElement(By.id(element.id)).click();
-						return true;
+						if(element.type.contentEquals("textbox")) {
+							wait.until(ExpectedConditions.elementToBeClickable(By.id(element.id))).clear();
+							wait.until(ExpectedConditions.elementToBeClickable(By.id(element.id))).sendKeys(action);
+							//driver.findElement(By.id(element.id)).clear();
+							//driver.findElement(By.id(element.id)).sendKeys(action);
+							previous = "";
+							return true;
+						} else if(element.type.contentEquals("dropdown") || element.type.contentEquals("select")) {
+							new Select(wait.until(ExpectedConditions.elementToBeClickable(By.id(element.id)))).selectByVisibleText(action);
+							previous = "";
+							return true;
+						} else if(element.type.contentEquals("radio")) {
+							element = current.getElement(previous, action);
+							wait.until(ExpectedConditions.elementToBeClickable(By.id(element.id))).click();
+							previous = "";
+							//driver.findElement(By.id(element.id)).click();
+							return true;
+						}
+					} catch (Exception e) {
+						System.out.println("\t[ERROR 101] CANNOT FIND: " + action);
 					}
-					} catch (Exception e) {System.out.println("\t[ERROR 101] CANNOT FIND: " + action);}
-				} 
+				}
+				return false;
 			}
-		} else System.out.println("\t[ERROR 100] INVALID INPUT: " + action);
-	    return false;
+		//} else System.out.println("\t[ERROR 100] INVALID INPUT: " + action);
+		return true;
 	}
 	
 	public void dispose() {
