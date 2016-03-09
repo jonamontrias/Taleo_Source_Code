@@ -65,25 +65,26 @@ public class SeleniumDriver {
 	}
 
 	public boolean run(String conf, String file, String homepage) throws InterruptedException {
-		//load and read configuration file
-		driver.get(homepage);
-	  	File file1 = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
-                FileUtils.copyFile(file1, new File("/var/jenkins_home/jobs/Oracle/jobs/Taleo/jobs/03_Deploy/workspace/beforeconfig.png"));
-		List<String[]> configs =  readInputfile(conf);
+		try {
+			//load and read configuration file
+			driver.get(homepage);
+		  	File file1 = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
+                	FileUtils.copyFile(file1, new File("/var/jenkins_home/jobs/Oracle/jobs/Taleo/jobs/03_Deploy/workspace/beforeconfig.png"));
+			List<String[]> configs =  readInputfile(conf);
 		
-		//load and read pages data
-		website = new Pages();
-		website.LoadPages(file);
+			//load and read pages data
+			website = new Pages();
+			website.LoadPages(file);
 		
-		//program flag
-		boolean flagConfig = true;
+			//program flag
+			boolean flagConfig = true;
 		
-		//counters
-		int ok = 0;
-		int failed = 0;
+			//counters
+			int ok = 0;
+			int failed = 0;
 		
-		//run configurations
-		for(String[] config : configs) {
+			//run configurations
+			for(String[] config : configs) {
 			flagConfig = true;
 			System.out.print("Configuration: ");
 			current = website.getPage("main");	
@@ -120,6 +121,9 @@ public class SeleniumDriver {
 		
 		if(failed>0) return false;
 		else return true;
+		} catch (IOException e) {
+		      	e.printStackTrace();
+		}	
 	}
 	
 	private List<String[]> readInputfile(String conf) {
