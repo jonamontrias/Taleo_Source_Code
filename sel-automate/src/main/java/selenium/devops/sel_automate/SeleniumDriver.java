@@ -68,6 +68,7 @@ public class SeleniumDriver {
 		try {
 			//load and read configuration file
 			driver.get(homepage);
+			driver.findElement(By.id("menuTemplate-menuForm-gotoSubView-listItemsNavItemsPanel-3-gotoCommandLink")).click();
 		  	File file1 = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
                 	FileUtils.copyFile(file1, new File("/var/jenkins_home/jobs/Oracle/jobs/Taleo/jobs/03_Deploy/workspace/beforeconfig.png"));
 			List<String[]> configs =  readInputfile(conf);
