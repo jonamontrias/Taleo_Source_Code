@@ -52,7 +52,7 @@ public class SeleniumDriver {
 			driver.findElement(By.id("dialogTemplate-dialogForm-content-login-name1")).sendKeys(username);
 			driver.findElement(By.name("dialogTemplate-dialogForm-content-login-password")).clear();
 			driver.findElement(By.name("dialogTemplate-dialogForm-content-login-password")).sendKeys(password);
-			driver.findElement(By.cssSelector("button[type='submit']")).click();
+			driver.findElement(By.id("dialogTemplate-dialogForm-content-login-defaultCmd")).click(); 
 			System.out.println("Login successful!");
 			return true;
 		} catch (Exception e) {
