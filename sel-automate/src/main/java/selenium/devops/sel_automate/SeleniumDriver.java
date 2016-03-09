@@ -67,8 +67,8 @@ public class SeleniumDriver {
 	public boolean run(String conf, String file, String homepage) throws InterruptedException {
 		//load and read configuration file
 		driver.get(homepage);
-	 	File file = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
-                FileUtils.copyFile(file, new File("/var/jenkins_home/jobs/Oracle/jobs/Taleo/jobs/03_Deploy/workspace/beforeconfig.png"));
+	  	File file1 = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
+                FileUtils.copyFile(file1, new File("/var/jenkins_home/jobs/Oracle/jobs/Taleo/jobs/03_Deploy/workspace/beforeconfig.png"));
 		List<String[]> configs =  readInputfile(conf);
 		
 		//load and read pages data
