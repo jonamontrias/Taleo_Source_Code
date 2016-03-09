@@ -119,10 +119,10 @@ public class SeleniumDriver {
 		System.out.println("\nSuccessful Configurations: " + ok);
 		System.out.println("Failed Configurations: "+ failed);
 		
-		if(failed>0) return false;
-		else return true;
+		return true
 		} catch (IOException e) {
 		      	e.printStackTrace();
+			return false
 		}	
 	}
 	
