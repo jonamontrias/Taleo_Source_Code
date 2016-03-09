@@ -54,6 +54,8 @@ public class SeleniumDriver {
 			driver.findElement(By.name("dialogTemplate-dialogForm-content-login-password")).sendKeys(password);
 			driver.findElement(By.id("dialogTemplate-dialogForm-content-login-defaultCmd")).click(); 
 			System.out.println("Login successful!");
+			File file = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
+			FileUtils.copyFile(file, new File("/var/jenkins_home/jobs/Oracle/jobs/Taleo/jobs/03_Deploy/workspace/afterlogin.png")); 
 			return true;
 		} catch (Exception e) {
 			System.out.println("Login failed!");
@@ -64,6 +66,9 @@ public class SeleniumDriver {
 
 	public boolean run(String conf, String file, String homepage) throws InterruptedException {
 		//load and read configuration file
+		driver.get(homepage);
+	 	File file = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
+                FileUtils.copyFile(file, new File("/var/jenkins_home/jobs/Oracle/jobs/Taleo/jobs/03_Deploy/workspace/beforeconfig.png"));
 		List<String[]> configs =  readInputfile(conf);
 		
 		//load and read pages data
